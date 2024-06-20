@@ -1,1 +1,1 @@
-![Real](infr.png)
+![Real](../infr.png)
